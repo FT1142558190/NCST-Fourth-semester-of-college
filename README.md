@@ -1,4 +1,4 @@
-# ]-NCST-Fourth-semester-of-college
+# NCST-Fourth-semester-of-college
 
 大学第四学期
 
@@ -25,3 +25,7 @@ git config --global http.sslVerify "false"  关闭了ssl让某个东西不在安
 **重新启用证书命令：**
 `git config --global http.sslVerify true`
 （这个为什么加粗呢，因为有的博客只说了忽略，没说怎么重新启用证书）
+
+
+
+没办法在手机版Github上新增文件
