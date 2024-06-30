@@ -4,7 +4,6 @@
 
 git config --global http.sslVerify "false"  关闭了ssl让某个东西不在安全
 
-
 ## 一、禁用
 
 1.使用git向GitHub传项目时报错：`fatal: unable to access "xxx": OpenSSL SSL_read:Connection was reset, errno 10054`
@@ -26,6 +25,17 @@ git config --global http.sslVerify "false"  关闭了ssl让某个东西不在安
 `git config --global http.sslVerify true`
 （这个为什么加粗呢，因为有的博客只说了忽略，没说怎么重新启用证书）
 
+没办法在手机版Github上新增文件 但是可以写
+
+git可以追踪一行行的，不能追踪二进制文件
 
 
-没办法在手机版Github上新增文件
+
+
+大二最后几节课了，期末复习真烦人了
+
+感觉自己的成长不快不慢吧
+
+就这样了
+
+江湖相逢，再相忘与互联网
